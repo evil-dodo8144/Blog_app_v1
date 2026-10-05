@@ -272,4 +272,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <p align="center">
   Made with ❤️ by <strong>Euphoria Code</strong>
+  Special thanks to <strong>Ananyo Mitra, Sushil Prasad, Aritra Bhattacharya<strong>
 </p>
